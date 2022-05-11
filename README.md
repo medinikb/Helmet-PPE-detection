@@ -8,4 +8,4 @@ Use YOLOv5 model to train on Custom dataset.
 A Web-app is created with Flask.
 ![Web-app](https://github.com/medinikb/Helmet-PPE-detection/blob/main/Web-app-video%23CS-2.mp4)
 
-!(https://github.com/medinikb/Helmet-PPE-detection/blob/main/Web-app-video%20CS-2.gif)
+![Web-app](https://github.com/medinikb/Helmet-PPE-detection/blob/main/Web-app-video%20CS-2.gif)
